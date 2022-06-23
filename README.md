@@ -1,1 +1,1 @@
- my first directory
+ a script that switches the current user to the user
